@@ -26,17 +26,17 @@ global.footer = '𝐙𝐗 - 𝐁𝐎𝐓'
 global.namalu = '𝐙𝐘𝐍𝐗' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.yt = 'https://youtu.be/dQw4w9WgXcQ' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/zyvnxx__'
 global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '08xxxxxxxxxx'
-global.gopay = '08xxxxxxxxx'
-global.wame = 'wa.me/6288902229533'
+global.dana = 'https://wa.me/6288902229533'
+global.gopay = 'https://wa.me/6288902229533'
+global.wame = 'https://wa.me/6288902229533'
 global.email = 'helloiamzynxx@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: 𝐙𝐘𝐍𝐗"\n"Bot Number: 6288902229533"\n"Bot Name: 𝐙𝐗 - 𝐁𝐎𝐓"\n"Instagram: @zyvnxx__"\n}' 
+global.packname = '"{\nAuthor: 𝐙𝐘𝐍𝐗"\n"Bot Number: 6288972594192"\n"Bot Name: 𝐙𝐗 - 𝐁𝐎𝐓"\n"Instagram: @zyvnxx__"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -82,8 +82,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //Menu
 global.ccomannya = `
-  「 *Main Menu* 」
- » script
+  「 *𝐌𝐀𝐈𝐍 𝐌𝐄𝐍𝐔* 」
  » speedtest
  » ping
  » owner
@@ -94,7 +93,7 @@ global.ccomannya = `
  » listpc
  » listonline
   
-  「 *Group Menu* 」
+  「 *𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔* 」
  » linkgroup
  » ephemeral [option]
  » setppgc [image]
@@ -116,7 +115,7 @@ global.ccomannya = `
  » cekvote
  » hapusvote
 
-  「 *Owner Menu* 」
+  「 *𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔* 」
  » react [emoji]
  » chat [option]
  » join [link]
@@ -129,7 +128,7 @@ global.ccomannya = `
  » setppbot [image]
  » setexif
   
-  「 *Rpg Menu* 」
+  「 *RPG MENU* 」
  » berburu
  » mancing
  » menambang
@@ -141,7 +140,7 @@ global.ccomannya = `
  » buy
  » sell
 
-  「 *Downloader Menu* 」
+  「 *DOWNLOADER MENU* 」
  » tiktok [url]
  » instagram [url]
  » twitter [url]
@@ -151,7 +150,7 @@ global.ccomannya = `
  » mediafire [url]
  » gitclone [url]
  
-  「 *Text Pro Menu* 」
+  「 *TEXT PRO MENU* 」
  » textmaker glicth [Text]
  » textmaker glow [Text]
  » flasmurf [Text]
@@ -203,19 +202,19 @@ global.ccomannya = `
  » ancient [Text]
  » toxic [Text]
 
-  「 *Stalker Menu* 」
+  「 *STALKER MENU* 」
  » ghstalk [query]
  » igstalk [query]
  » ffstalk [query]
  » supersusstalk [query]
 
-  「 *Internet Menu* 」
+  「 *INTERNET MENU* 」
  » ip [query]
  » iploc [query]
  » ipinfo [query]
  » ssweb [query]
   
-  「 *Search Menu* 」
+  「 *SEARCH MENU* 」
  » play [query]
  » yts [query]
  » google [query]
@@ -232,7 +231,7 @@ global.ccomannya = `
  » character [query]
  » manga [query]
 
-  「 *Random Menu* 」
+  「 *RANDOM MENU* 」
  » coffe
  » quotesanime
  » couple
@@ -246,7 +245,7 @@ global.ccomannya = `
  » trap (nsfw)
  » blowjob (nsfw)
 
-  「 *Random Anime Menu* 」
+  「 *RANDOM ANIME MENU* 」
  » loli
  » neko
  » waifu
@@ -279,7 +278,7 @@ global.ccomannya = `
  » dance
  » cringe
 
-  「 *Fun Menu* 」
+  「 *FUN MENU* 」
  » bagaimanakah
  » kapankah
  » apakah
@@ -310,7 +309,7 @@ global.ccomannya = `
  » math [mode]
  » suitpvp [@tag]
 
-  「 *Primbon Menu* 」
+  「 *PRIMBON MENU* 」
  » nomorhoki
  » artimimpi
  » artinama
@@ -342,7 +341,7 @@ global.ccomannya = `
  » zodiak
  » shio
 
-  「 *Convert Menu* 」
+  「 *CONVERT MENU* 」
  » toimage
  » removebg
  » sticker
@@ -358,7 +357,7 @@ global.ccomannya = `
  » styletext
  » smeme
 
-  「 *Database Menu* 」
+  「 *DATABASE MENU* 」
  » setcmd
  » listcmd
  » delcmd
@@ -368,21 +367,21 @@ global.ccomannya = `
  » getmsg
  » delmsg
 
-  「 *Anonymous Menu* 」
+  「 *ANONYMOUS MENU* 」
  » anonymous
  » start
  » next
  » keluar
  » sendkontak
 
-  「 *Islamic Menu* 」
+  「 *ISLAMIC MENU* 」
  » iqra
  » hadist
  » alquran
  » juzamma
  » tafsirsurah
 
-  「 *Voice Changer* 」
+  「 *VOICE CHANGER* 」
  » bass
  » blown
  » deep
@@ -396,7 +395,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 4K_\n   _• Sewa Bot 1 Bulan : 8K_\n   _• Sewa Bot 1 Tahun : 28K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
