@@ -395,7 +395,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 3K_\n   _• Sewa Bot 1 Bulan : 7K_\n   _• Sewa Bot permanen : 11K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 2K_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot permanen : 10K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
