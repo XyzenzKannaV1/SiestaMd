@@ -3916,7 +3916,7 @@ txt = ` _*Hi Kak ${pushname} ${ucapanWaktu} 👋.*_
  • Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
  • Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
 `
-const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({ templateMessage: { hydratedTemplate: { hydratedContentText: txt.trim(), locationMessage: { jpegThumbnail: fs.readFileSync('./media/menu.jpg') }, hydratedFooterText: `${footer1}`, hydratedButtons: [{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj'} }, { quickReplyButton: { displayText: 'Owner', id: 'owner', } }, { quickReplyButton: { displayText: 'Donate', id: 'donate', } }, { quickReplyButton: { displayText: 'List Menu', id: 'allmenu', } }] } } }), { userJid: m.sender, quoted: m }); //conn.reply(m.chat, text.trim(), m) 
+const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({ templateMessage: { hydratedTemplate: { hydratedContentText: txt.trim(), locationMessage: { jpegThumbnail: fs.readFileSync('./media/menu.jpg') }, hydratedFooterText: `${footer1}`, hydratedButtons: [{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN'} }, { quickReplyButton: { displayText: 'Owner', id: 'owner', } }, { quickReplyButton: { displayText: 'Donate', id: 'donate', } }, { quickReplyButton: { displayText: 'List Menu', id: 'allmenu', } }] } } }), { userJid: m.sender, quoted: m }); //conn.reply(m.chat, text.trim(), m) 
   zaki.relayMessage( m.chat, template.message, { messageId: template.key.id } )
 break
 case 'command': case 'allmenu': case 'listmenu': {
@@ -3938,7 +3938,7 @@ zaki.sendMessage(m.chat, templateMessage)
 // MODEL MENU SEKARANG : LOC \\
 
 //━━━━━━━━━━━━━━━[ MENU LOC ]━━━━━━━━━━━━━━━\\
-const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({ templateMessage: { hydratedTemplate: { hydratedContentText: `${ccomannya}`, locationMessage: { jpegThumbnail: fs.readFileSync('./media/allmenu.jpg') }, hydratedFooterText: `${footer}`, hydratedButtons: [{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj'} }] } } }), { userJid: m.sender, quoted: m }); //conn.reply(m.chat, text.trim(), m) 
+const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({ templateMessage: { hydratedTemplate: { hydratedContentText: `${ccomannya}`, locationMessage: { jpegThumbnail: fs.readFileSync('./media/allmenu.jpg') }, hydratedFooterText: `${footer}`, hydratedButtons: [{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN'} }] } } }), { userJid: m.sender, quoted: m }); //conn.reply(m.chat, text.trim(), m) 
   zaki.relayMessage( m.chat, template.message, { messageId: template.key.id } )
 
   
