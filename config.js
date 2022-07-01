@@ -82,7 +82,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //Menu
 global.ccomannya = `
+  
   「 *𝐌𝐀𝐈𝐍 𝐌𝐄𝐍𝐔* 」
+
  » speedtest
  » ping
  » owner
@@ -94,6 +96,7 @@ global.ccomannya = `
  » listonline
   
   「 *𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔* 」
+
  » linkgroup
  » ephemeral [option]
  » setppgc [image]
@@ -116,6 +119,7 @@ global.ccomannya = `
  » hapusvote
 
   「 *𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔* 」
+
  » react [emoji]
  » chat [option]
  » join [link]
@@ -129,6 +133,7 @@ global.ccomannya = `
  » setexif
   
   「 *RPG MENU* 」
+
  » berburu
  » mancing
  » menambang
@@ -141,6 +146,7 @@ global.ccomannya = `
  » sell
 
   「 *DOWNLOADER MENU* 」
+
  » tiktok [url]
  » instagram [url]
  » twitter [url]
@@ -151,6 +157,7 @@ global.ccomannya = `
  » gitclone [url]
  
   「 *TEXT PRO MENU* 」
+
  » textmaker glicth [Text]
  » textmaker glow [Text]
  » flasmurf [Text]
@@ -203,18 +210,21 @@ global.ccomannya = `
  » toxic [Text]
 
   「 *STALKER MENU* 」
+
  » ghstalk [query]
  » igstalk [query]
  » ffstalk [query]
  » supersusstalk [query]
 
   「 *INTERNET MENU* 」
+
  » ip [query]
  » iploc [query]
  » ipinfo [query]
  » ssweb [query]
   
   「 *SEARCH MENU* 」
+
  » play [query]
  » yts [query]
  » google [query]
@@ -232,6 +242,7 @@ global.ccomannya = `
  » manga [query]
 
   「 *RANDOM MENU* 」
+
  » coffe
  » quotesanime
  » couple
@@ -246,6 +257,7 @@ global.ccomannya = `
  » blowjob (nsfw)
 
   「 *RANDOM ANIME MENU* 」
+
  » loli
  » neko
  » waifu
@@ -279,6 +291,7 @@ global.ccomannya = `
  » cringe
 
   「 *FUN MENU* 」
+
  » bagaimanakah
  » kapankah
  » apakah
@@ -310,6 +323,7 @@ global.ccomannya = `
  » suitpvp [@tag]
 
   「 *PRIMBON MENU* 」
+
  » nomorhoki
  » artimimpi
  » artinama
@@ -342,6 +356,7 @@ global.ccomannya = `
  » shio
 
   「 *CONVERT MENU* 」
+
  » toimage
  » removebg
  » sticker
@@ -358,6 +373,7 @@ global.ccomannya = `
  » smeme
 
   「 *DATABASE MENU* 」
+
  » setcmd
  » listcmd
  » delcmd
@@ -368,6 +384,7 @@ global.ccomannya = `
  » delmsg
 
   「 *ANONYMOUS MENU* 」
+
  » anonymous
  » start
  » next
@@ -375,6 +392,7 @@ global.ccomannya = `
  » sendkontak
 
   「 *ISLAMIC MENU* 」
+
  » iqra
  » hadist
  » alquran
@@ -382,6 +400,7 @@ global.ccomannya = `
  » tafsirsurah
 
   「 *VOICE CHANGER* 」
+
  » bass
  » blown
  » deep
