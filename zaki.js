@@ -232,7 +232,7 @@ module.exports = zaki = async (zaki, m, chatUpdate, store) => {
 zaki.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `Group Official Bot¹`,"body": `${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./media/zaki.jpg`),"sourceUrl": `${link}`}}}, { quoted: m})
 }
 //FAKE QUOTED
-const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@g.us"},"message": {"groupInviteMessage": {"groupJid": "6287772549185-1622678501@g.us","inviteCode": "https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj","groupName": "Group Official", "caption": `${footer}`, 'jpegThumbnail': ('./media/zaki.jpg')}}}
+const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@g.us"},"message": {"groupInviteMessage": {"groupJid": "6287772549185-1622678501@g.us","inviteCode": "https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN","groupName": "Group Official", "caption": `${footer}`, 'jpegThumbnail': ('./media/zaki.jpg')}}}
 const sendFile = async (from, url, caption, msg, men) => {
 let mime = '';
 let res = await axios.head(url)
