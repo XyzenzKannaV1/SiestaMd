@@ -3896,17 +3896,17 @@ case 'cry':case 'kill':case 'hug':case 'pat':case 'lick':case 'kiss':case 'bite'
 case '?': case 'menu': case 'help':
 txt = ` _*Hi Kak ${pushname} ${ucapanWaktu} 👋.*_
 
-*Statistic* :
+*❑ 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂* :
  • Upload : ${cBandwidth.upload}
  • Download : ${cBandwidth.download}
 
-*User Info* :
+*❑ 𝐔𝐒𝐄𝐑 𝐈𝐍𝐅𝐎* :
  • Username : ${pushname}
  • Balance : ${getMonay(m.sender)}
  • Limit : ∞
  • Status : Free User
 
-*Bot Info* :
+*❑ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎* :
  • Author : ${author}
  • Botname : ${botname}
  • Prefix : ${Prefix}
