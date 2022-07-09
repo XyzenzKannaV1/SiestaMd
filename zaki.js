@@ -2368,7 +2368,7 @@ case 'webtonsearch': case 'webtoon':
 					})
 					break 
 					case 'hentai':
-					if (!isOwner) throw ('Owner only dek')
+					if (!isCreator) throw ('Owner only dek')
 					reply(mess.wait)
 					axios.get(`https://api.waifu.pics/nsfw/waifu`)
 					.then(({data}) => {
