@@ -10,7 +10,7 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 <p align="center">
   <a href="https://github.com/KiZakiXD"><img title="Si Paling" src="https://img.shields.io/badge/Author-KiZakiXD-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285878313791"> No Enc? </a>
+  <a href="https://wa.me/6283866366437"> No Enc? </a>
 </h4>
 </p>
 
@@ -24,14 +24,14 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 
  ✨ My Waifu :
    
-  - Chitanda Eru    
+  - Kanna Chan   
 
 
 **Information:**
 
 - [My Chanel Youtube](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w)
 
-- [Donate](wa.me/6285878313791)
+- [Donate](wa.me/6283866366437)
 
 ## <div align="center">⚡ Information </div>
 
